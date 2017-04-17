@@ -15,7 +15,7 @@ import os.path
 from email.utils import formataddr
 
 
-class easyEamil(object):
+class easyEmail(object):
 
     def __init__(self, mail_host, mail_user, mail_pass):
         self.mail_host = mail_host
