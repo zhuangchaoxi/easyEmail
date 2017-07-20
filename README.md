@@ -1,6 +1,6 @@
 ## 安装
 
-<pre>pip install subcommands</pre>
+<pre>pip install emailEasy</pre>
 
 # easyEmail
-让发邮件更简易,使用参考testeasyEmail.py。
+使用参考testeasyEmail.py。
